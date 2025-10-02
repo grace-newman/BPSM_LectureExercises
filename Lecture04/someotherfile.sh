@@ -1,3 +1,2 @@
 Some random text
-This script has acheived total perfection now,
-so I am going to finish things off and call it done.
+More random text
