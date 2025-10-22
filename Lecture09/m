@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+echo -en "\ec\tGive me your mysql password please\t"
+read mp
+mysql -u ${USER} -p${mp}
+unset mp
