@@ -45,3 +45,5 @@ def translate_dna(dna, rf=1):
         aa = gencode.get(codon,"X") # if there is an unknown base in a codon and there's no key, it will add an X to the protein sequence
         protein = protein + aa
     return protein
+
+# git practice check
